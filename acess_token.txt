@@ -1,2 +1,0 @@
-Acess Token: "Use You Token Here"
-Acess token secret: "Use You Token Secret Here"
