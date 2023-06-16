@@ -6,7 +6,7 @@
 
 **Incase you get stack to follow along, dont hesitate to put that _Issue_**
 
-***Versions Used
+***Versions Used***
 
 ```python
 selenium:  4.2.0
