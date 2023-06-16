@@ -1,0 +1,761 @@
+date,home_team,score,away_team
+31-12-2022,Wolves,0 - 1,Man United
+31-12-2022,Fulham,2 - 1,Southampton
+31-12-2022,Newcastle,0 - 0,Leeds
+31-12-2022,Fulham,2 - 1,Southampton
+31-12-2022,Bournemouth,0 - 2,Crystal Palace
+31-12-2022,Man City,1 - 1,Everton
+31-12-2022,Man City,1 - 1,Everton
+31-12-2022,Wolves,0 - 1,Man United
+31-12-2022,Newcastle,0 - 0,Leeds
+31-12-2022,Brighton,2 - 4,Arsenal
+31-12-2022,Bournemouth,0 - 2,Crystal Palace
+31-12-2022,Brighton,2 - 4,Arsenal
+31-08-2022,Man City,6 - 0,Nott'm Forest
+31-08-2022,Arsenal,2 - 1,Aston Villa
+31-08-2022,Liverpool,2 - 1,Newcastle
+31-08-2022,Man City,6 - 0,Nott'm Forest
+31-08-2022,West Ham,1 - 1,Tottenham
+31-08-2022,Bournemouth,0 - 0,Wolves
+31-08-2022,Bournemouth,0 - 0,Wolves
+31-08-2022,Arsenal,2 - 1,Aston Villa
+31-08-2022,Liverpool,2 - 1,Newcastle
+31-08-2022,West Ham,1 - 1,Tottenham
+30-12-2022,West Ham,0 - 2,Brentford
+30-12-2022,Liverpool,2 - 1,Leicester
+30-12-2022,West Ham,0 - 2,Brentford
+30-12-2022,Liverpool,2 - 1,Leicester
+30-10-2022,Arsenal,5 - 0,Nott'm Forest
+30-10-2022,Man United,1 - 0,West Ham
+30-10-2022,Arsenal,5 - 0,Nott'm Forest
+30-10-2022,Man United,1 - 0,West Ham
+30-08-2022,Southampton,2 - 1,Chelsea
+30-08-2022,Crystal Palace,1 - 1,Brentford
+30-08-2022,Fulham,2 - 1,Brighton
+30-08-2022,Leeds,1 - 1,Everton
+30-08-2022,Southampton,2 - 1,Chelsea
+30-08-2022,Fulham,2 - 1,Brighton
+30-08-2022,Leeds,1 - 1,Everton
+30-08-2022,Crystal Palace,1 - 1,Brentford
+30-04-2023,Liverpool,4 - 3,Tottenham
+30-04-2023,Newcastle,3 - 1,Southampton
+30-04-2023,Fulham,1 - 2,Man City
+30-04-2023,Bournemouth,4 - 1,Leeds
+30-04-2023,Fulham,1 - 2,Man City
+30-04-2023,Newcastle,3 - 1,Southampton
+30-04-2023,Man United,1 - 0,Aston Villa
+30-04-2023,Liverpool,4 - 3,Tottenham
+30-04-2023,Man United,1 - 0,Aston Villa
+30-04-2023,Bournemouth,4 - 1,Leeds
+29-10-2022,Brentford,1 - 1,Wolves
+29-10-2022,Crystal Palace,1 - 0,Southampton
+29-10-2022,Liverpool,1 - 2,Leeds
+29-10-2022,Brentford,1 - 1,Wolves
+29-10-2022,Fulham,0 - 0,Everton
+29-10-2022,Leicester,0 - 1,Man City
+29-10-2022,Liverpool,1 - 2,Leeds
+29-10-2022,Bournemouth,2 - 3,Tottenham
+29-10-2022,Bournemouth,2 - 3,Tottenham
+29-10-2022,Fulham,0 - 0,Everton
+29-10-2022,Brighton,4 - 1,Chelsea
+29-10-2022,Leicester,0 - 1,Man City
+29-10-2022,Crystal Palace,1 - 0,Southampton
+29-10-2022,Brighton,4 - 1,Chelsea
+29-10-2022,Newcastle,4 - 0,Aston Villa
+29-10-2022,Newcastle,4 - 0,Aston Villa
+29-04-2023,Brighton,6 - 0,Wolves
+29-04-2023,Crystal Palace,4 - 3,West Ham
+29-04-2023,Brighton,6 - 0,Wolves
+29-04-2023,Crystal Palace,4 - 3,West Ham
+29-04-2023,Brentford,2 - 1,Nott'm Forest
+29-04-2023,Brentford,2 - 1,Nott'm Forest
+28-12-2022,Leeds,1 - 3,Man City
+28-12-2022,Leeds,1 - 3,Man City
+28-08-2022,Aston Villa,0 - 1,West Ham
+28-08-2022,Aston Villa,0 - 1,West Ham
+28-08-2022,Wolves,1 - 1,Newcastle
+28-08-2022,Nott'm Forest,0 - 2,Tottenham
+28-08-2022,Nott'm Forest,0 - 2,Tottenham
+28-08-2022,Wolves,1 - 1,Newcastle
+28-05-2023,Aston Villa,2 - 1,Brighton
+28-05-2023,Leeds,1 - 4,Tottenham
+28-05-2023,Southampton,4 - 4,Liverpool
+28-05-2023,Chelsea,1 - 1,Newcastle
+28-05-2023,Leicester,2 - 1,West Ham
+28-05-2023,Crystal Palace,1 - 1,Nott'm Forest
+28-05-2023,Brentford,1 - 0,Man City
+28-05-2023,Everton,1 - 0,Bournemouth
+28-05-2023,Man United,2 - 1,Fulham
+28-05-2023,Everton,1 - 0,Bournemouth
+28-05-2023,Arsenal,5 - 0,Wolves
+28-05-2023,Leeds,1 - 4,Tottenham
+28-05-2023,Chelsea,1 - 1,Newcastle
+28-05-2023,Man United,2 - 1,Fulham
+28-05-2023,Brentford,1 - 0,Man City
+28-05-2023,Arsenal,5 - 0,Wolves
+28-05-2023,Crystal Palace,1 - 1,Nott'm Forest
+28-05-2023,Aston Villa,2 - 1,Brighton
+28-05-2023,Leicester,2 - 1,West Ham
+28-05-2023,Southampton,4 - 4,Liverpool
+27-12-2022,Man United,3 - 0,Nott'm Forest
+27-12-2022,Chelsea,2 - 0,Bournemouth
+27-12-2022,Chelsea,2 - 0,Bournemouth
+27-12-2022,Man United,3 - 0,Nott'm Forest
+27-08-2022,Brentford,1 - 1,Everton
+27-08-2022,Man City,4 - 2,Crystal Palace
+27-08-2022,Chelsea,2 - 1,Leicester
+27-08-2022,Man City,4 - 2,Crystal Palace
+27-08-2022,Arsenal,2 - 1,Fulham
+27-08-2022,Southampton,0 - 1,Man United
+27-08-2022,Brentford,1 - 1,Everton
+27-08-2022,Brighton,1 - 0,Leeds
+27-08-2022,Brighton,1 - 0,Leeds
+27-08-2022,Chelsea,2 - 1,Leicester
+27-08-2022,Arsenal,2 - 1,Fulham
+27-08-2022,Liverpool,9 - 0,Bournemouth
+27-08-2022,Southampton,0 - 1,Man United
+27-08-2022,Liverpool,9 - 0,Bournemouth
+27-04-2023,Southampton,0 - 1,Bournemouth
+27-04-2023,Tottenham,2 - 2,Man United
+27-04-2023,Tottenham,2 - 2,Man United
+27-04-2023,Everton,1 - 4,Newcastle
+27-04-2023,Everton,1 - 4,Newcastle
+27-04-2023,Southampton,0 - 1,Bournemouth
+26-12-2022,Crystal Palace,0 - 3,Fulham
+26-12-2022,Southampton,1 - 3,Brighton
+26-12-2022,Brentford,2 - 2,Tottenham
+26-12-2022,Leicester,0 - 3,Newcastle
+26-12-2022,Southampton,1 - 3,Brighton
+26-12-2022,Aston Villa,1 - 3,Liverpool
+26-12-2022,Arsenal,3 - 1,West Ham
+26-12-2022,Leicester,0 - 3,Newcastle
+26-12-2022,Everton,1 - 2,Wolves
+26-12-2022,Everton,1 - 2,Wolves
+26-12-2022,Crystal Palace,0 - 3,Fulham
+26-12-2022,Aston Villa,1 - 3,Liverpool
+26-12-2022,Brentford,2 - 2,Tottenham
+26-12-2022,Arsenal,3 - 1,West Ham
+26-04-2023,Chelsea,0 - 2,Brentford
+26-04-2023,Chelsea,0 - 2,Brentford
+26-04-2023,West Ham,1 - 2,Liverpool
+26-04-2023,Nott'm Forest,3 - 1,Brighton
+26-04-2023,Nott'm Forest,3 - 1,Brighton
+26-04-2023,West Ham,1 - 2,Liverpool
+26-04-2023,Man City,4 - 1,Arsenal
+26-04-2023,Man City,4 - 1,Arsenal
+26-02-2023,Tottenham,2 - 0,Chelsea
+26-02-2023,Tottenham,2 - 0,Chelsea
+25-05-2023,Man United,4 - 1,Chelsea
+25-05-2023,Man United,4 - 1,Chelsea
+25-04-2023,Wolves,2 - 0,Crystal Palace
+25-04-2023,Leeds,1 - 1,Leicester
+25-04-2023,Aston Villa,1 - 0,Fulham
+25-04-2023,Wolves,2 - 0,Crystal Palace
+25-04-2023,Leeds,1 - 1,Leicester
+25-04-2023,Aston Villa,1 - 0,Fulham
+25-02-2023,Crystal Palace,0 - 0,Liverpool
+25-02-2023,Leicester,0 - 1,Arsenal
+25-02-2023,Bournemouth,1 - 4,Man City
+25-02-2023,Crystal Palace,0 - 0,Liverpool
+25-02-2023,Leicester,0 - 1,Arsenal
+25-02-2023,Bournemouth,1 - 4,Man City
+25-02-2023,Leeds,1 - 0,Southampton
+25-02-2023,Everton,0 - 2,Aston Villa
+25-02-2023,Leeds,1 - 0,Southampton
+25-02-2023,Everton,0 - 2,Aston Villa
+25-02-2023,West Ham,4 - 0,Nott'm Forest
+25-02-2023,West Ham,4 - 0,Nott'm Forest
+24-10-2022,West Ham,2 - 0,Bournemouth
+24-10-2022,West Ham,2 - 0,Bournemouth
+24-05-2023,Brighton,1 - 1,Man City
+24-05-2023,Brighton,1 - 1,Man City
+24-02-2023,Fulham,1 - 1,Wolves
+24-02-2023,Fulham,1 - 1,Wolves
+23-10-2022,Leeds,2 - 3,Fulham
+23-10-2022,Southampton,1 - 1,Arsenal
+23-10-2022,Wolves,0 - 4,Leicester
+23-10-2022,Tottenham,1 - 2,Newcastle
+23-10-2022,Tottenham,1 - 2,Newcastle
+23-10-2022,Southampton,1 - 1,Arsenal
+23-10-2022,Leeds,2 - 3,Fulham
+23-10-2022,Wolves,0 - 4,Leicester
+23-10-2022,Aston Villa,4 - 0,Brentford
+23-10-2022,Aston Villa,4 - 0,Brentford
+23-04-2023,Newcastle,6 - 1,Tottenham
+23-04-2023,Bournemouth,0 - 4,West Ham
+23-04-2023,Newcastle,6 - 1,Tottenham
+23-04-2023,Bournemouth,0 - 4,West Ham
+23-01-2023,Fulham,0 - 1,Tottenham
+23-01-2023,Fulham,0 - 1,Tottenham
+22-10-2022,Nott'm Forest,1 - 0,Liverpool
+22-10-2022,Man City,3 - 1,Brighton
+22-10-2022,Chelsea,1 - 1,Man United
+22-10-2022,Nott'm Forest,1 - 0,Liverpool
+22-10-2022,Everton,3 - 0,Crystal Palace
+22-10-2022,Chelsea,1 - 1,Man United
+22-10-2022,Everton,3 - 0,Crystal Palace
+22-10-2022,Man City,3 - 1,Brighton
+22-08-2022,Man United,2 - 1,Liverpool
+22-08-2022,Man United,2 - 1,Liverpool
+22-05-2023,Newcastle,0 - 0,Leicester
+22-05-2023,Newcastle,0 - 0,Leicester
+22-04-2023,Brentford,1 - 1,Aston Villa
+22-04-2023,Liverpool,3 - 2,Nott'm Forest
+22-04-2023,Fulham,2 - 1,Leeds
+22-04-2023,Leicester,2 - 1,Wolves
+22-04-2023,Leicester,2 - 1,Wolves
+22-04-2023,Liverpool,3 - 2,Nott'm Forest
+22-04-2023,Crystal Palace,0 - 0,Everton
+22-04-2023,Brentford,1 - 1,Aston Villa
+22-04-2023,Crystal Palace,0 - 0,Everton
+22-04-2023,Fulham,2 - 1,Leeds
+22-01-2023,Arsenal,3 - 2,Man United
+22-01-2023,Leeds,0 - 0,Brentford
+22-01-2023,Arsenal,3 - 2,Man United
+22-01-2023,Leeds,0 - 0,Brentford
+22-01-2023,Man City,3 - 0,Wolves
+22-01-2023,Man City,3 - 0,Wolves
+21-08-2022,West Ham,0 - 2,Brighton
+21-08-2022,West Ham,0 - 2,Brighton
+21-08-2022,Newcastle,3 - 3,Man City
+21-08-2022,Newcastle,3 - 3,Man City
+21-08-2022,Leeds,3 - 0,Chelsea
+21-08-2022,Leeds,3 - 0,Chelsea
+21-05-2023,West Ham,3 - 1,Leeds
+21-05-2023,Brighton,3 - 1,Southampton
+21-05-2023,Man City,1 - 0,Chelsea
+21-05-2023,Man City,1 - 0,Chelsea
+21-05-2023,Brighton,3 - 1,Southampton
+21-05-2023,West Ham,3 - 1,Leeds
+21-04-2023,Arsenal,3 - 3,Southampton
+21-04-2023,Arsenal,3 - 3,Southampton
+21-01-2023,Southampton,0 - 1,Aston Villa
+21-01-2023,Crystal Palace,0 - 0,Newcastle
+21-01-2023,Bournemouth,1 - 1,Nott'm Forest
+21-01-2023,Leicester,2 - 2,Brighton
+21-01-2023,West Ham,2 - 0,Everton
+21-01-2023,West Ham,2 - 0,Everton
+21-01-2023,Southampton,0 - 1,Aston Villa
+21-01-2023,Leicester,2 - 2,Brighton
+21-01-2023,Liverpool,0 - 0,Chelsea
+21-01-2023,Crystal Palace,0 - 0,Newcastle
+21-01-2023,Bournemouth,1 - 1,Nott'm Forest
+21-01-2023,Liverpool,0 - 0,Chelsea
+20-10-2022,Fulham,3 - 0,Aston Villa
+20-10-2022,Fulham,3 - 0,Aston Villa
+20-10-2022,Leicester,2 - 0,Leeds
+20-10-2022,Leicester,2 - 0,Leeds
+20-08-2022,Leicester,1 - 2,Southampton
+20-08-2022,Fulham,3 - 2,Brentford
+20-08-2022,Everton,1 - 1,Nott'm Forest
+20-08-2022,Leicester,1 - 2,Southampton
+20-08-2022,Tottenham,1 - 0,Wolves
+20-08-2022,Fulham,3 - 2,Brentford
+20-08-2022,Everton,1 - 1,Nott'm Forest
+20-08-2022,Crystal Palace,3 - 1,Aston Villa
+20-08-2022,Crystal Palace,3 - 1,Aston Villa
+20-08-2022,Bournemouth,0 - 3,Arsenal
+20-08-2022,Bournemouth,0 - 3,Arsenal
+20-08-2022,Tottenham,1 - 0,Wolves
+20-05-2023,Fulham,2 - 2,Crystal Palace
+20-05-2023,Bournemouth,0 - 1,Man United
+20-05-2023,Bournemouth,0 - 1,Man United
+20-05-2023,Liverpool,1 - 1,Aston Villa
+20-05-2023,Tottenham,1 - 3,Brentford
+20-05-2023,Tottenham,1 - 3,Brentford
+20-05-2023,Nott'm Forest,1 - 0,Arsenal
+20-05-2023,Nott'm Forest,1 - 0,Arsenal
+20-05-2023,Wolves,1 - 1,Everton
+20-05-2023,Wolves,1 - 1,Everton
+20-05-2023,Fulham,2 - 2,Crystal Palace
+20-05-2023,Liverpool,1 - 1,Aston Villa
+19-10-2022,Bournemouth,0 - 1,Southampton
+19-10-2022,Liverpool,1 - 0,West Ham
+19-10-2022,Newcastle,1 - 0,Everton
+19-10-2022,Newcastle,1 - 0,Everton
+19-10-2022,Brentford,0 - 0,Chelsea
+19-10-2022,Man United,2 - 0,Tottenham
+19-10-2022,Bournemouth,0 - 1,Southampton
+19-10-2022,Brentford,0 - 0,Chelsea
+19-10-2022,Man United,2 - 0,Tottenham
+19-10-2022,Liverpool,1 - 0,West Ham
+19-03-2023,Arsenal,4 - 1,Crystal Palace
+19-03-2023,Arsenal,4 - 1,Crystal Palace
+19-02-2023,Tottenham,2 - 0,West Ham
+19-02-2023,Man United,3 - 0,Leicester
+19-02-2023,Tottenham,2 - 0,West Ham
+19-02-2023,Man United,3 - 0,Leicester
+19-01-2023,Man City,4 - 2,Tottenham
+19-01-2023,Man City,4 - 2,Tottenham
+18-10-2022,Crystal Palace,2 - 1,Wolves
+18-10-2022,Brighton,0 - 0,Nott'm Forest
+18-10-2022,Crystal Palace,2 - 1,Wolves
+18-10-2022,Brighton,0 - 0,Nott'm Forest
+18-09-2022,Everton,1 - 0,West Ham
+18-09-2022,Brentford,0 - 3,Arsenal
+18-09-2022,Brentford,0 - 3,Arsenal
+18-09-2022,Everton,1 - 0,West Ham
+18-05-2023,Newcastle,4 - 1,Brighton
+18-05-2023,Newcastle,4 - 1,Brighton
+18-03-2023,Southampton,3 - 3,Tottenham
+18-03-2023,Wolves,2 - 4,Leeds
+18-03-2023,Chelsea,2 - 2,Everton
+18-03-2023,Chelsea,2 - 2,Everton
+18-03-2023,Brentford,1 - 1,Leicester
+18-03-2023,Southampton,3 - 3,Tottenham
+18-03-2023,Aston Villa,3 - 0,Bournemouth
+18-03-2023,Brentford,1 - 1,Leicester
+18-03-2023,Aston Villa,3 - 0,Bournemouth
+18-03-2023,Wolves,2 - 4,Leeds
+18-02-2023,Wolves,0 - 1,Bournemouth
+18-02-2023,Nott'm Forest,1 - 1,Man City
+18-02-2023,Nott'm Forest,1 - 1,Man City
+18-02-2023,Everton,1 - 0,Leeds
+18-02-2023,Aston Villa,2 - 4,Arsenal
+18-02-2023,Aston Villa,2 - 4,Arsenal
+18-02-2023,Wolves,0 - 1,Bournemouth
+18-02-2023,Newcastle,0 - 2,Liverpool
+18-02-2023,Brighton,0 - 1,Fulham
+18-02-2023,Chelsea,0 - 1,Southampton
+18-02-2023,Newcastle,0 - 2,Liverpool
+18-02-2023,Brentford,1 - 1,Crystal Palace
+18-02-2023,Brentford,1 - 1,Crystal Palace
+18-02-2023,Chelsea,0 - 1,Southampton
+18-02-2023,Brighton,0 - 1,Fulham
+18-02-2023,Everton,1 - 0,Leeds
+18-01-2023,Crystal Palace,1 - 1,Man United
+18-01-2023,Crystal Palace,1 - 1,Man United
+17-09-2022,Newcastle,1 - 1,Bournemouth
+17-09-2022,Tottenham,6 - 2,Leicester
+17-09-2022,Wolves,0 - 3,Man City
+17-09-2022,Newcastle,1 - 1,Bournemouth
+17-09-2022,Tottenham,6 - 2,Leicester
+17-09-2022,Wolves,0 - 3,Man City
+17-04-2023,Leeds,1 - 6,Liverpool
+17-04-2023,Leeds,1 - 6,Liverpool
+17-03-2023,Nott'm Forest,1 - 2,Newcastle
+17-03-2023,Nott'm Forest,1 - 2,Newcastle
+16-10-2022,Liverpool,1 - 0,Man City
+16-10-2022,Man United,0 - 0,Newcastle
+16-10-2022,Leeds,0 - 1,Arsenal
+16-10-2022,Leeds,0 - 1,Arsenal
+16-10-2022,Man United,0 - 0,Newcastle
+16-10-2022,Southampton,1 - 1,West Ham
+16-10-2022,Aston Villa,0 - 2,Chelsea
+16-10-2022,Liverpool,1 - 0,Man City
+16-10-2022,Southampton,1 - 1,West Ham
+16-10-2022,Aston Villa,0 - 2,Chelsea
+16-09-2022,Aston Villa,1 - 0,Southampton
+16-09-2022,Aston Villa,1 - 0,Southampton
+16-09-2022,Nott'm Forest,2 - 3,Fulham
+16-09-2022,Nott'm Forest,2 - 3,Fulham
+16-04-2023,West Ham,2 - 2,Arsenal
+16-04-2023,Nott'm Forest,0 - 2,Man United
+16-04-2023,Nott'm Forest,0 - 2,Man United
+16-04-2023,West Ham,2 - 2,Arsenal
+15-10-2022,Fulham,2 - 2,Bournemouth
+15-10-2022,Wolves,1 - 0,Nott'm Forest
+15-10-2022,Fulham,2 - 2,Bournemouth
+15-10-2022,Wolves,1 - 0,Nott'm Forest
+15-10-2022,Leicester,0 - 0,Crystal Palace
+15-10-2022,Leicester,0 - 0,Crystal Palace
+15-10-2022,Tottenham,2 - 0,Everton
+15-10-2022,Tottenham,2 - 0,Everton
+15-08-2022,Liverpool,1 - 1,Crystal Palace
+15-08-2022,Liverpool,1 - 1,Crystal Palace
+15-05-2023,Leicester,0 - 3,Liverpool
+15-05-2023,Leicester,0 - 3,Liverpool
+15-04-2023,Wolves,2 - 0,Brentford
+15-04-2023,Aston Villa,3 - 0,Newcastle
+15-04-2023,Chelsea,1 - 2,Brighton
+15-04-2023,Wolves,2 - 0,Brentford
+15-04-2023,Southampton,0 - 2,Crystal Palace
+15-04-2023,Man City,3 - 1,Leicester
+15-04-2023,Chelsea,1 - 2,Brighton
+15-04-2023,Tottenham,2 - 3,Bournemouth
+15-04-2023,Man City,3 - 1,Leicester
+15-04-2023,Southampton,0 - 2,Crystal Palace
+15-04-2023,Everton,1 - 3,Fulham
+15-04-2023,Tottenham,2 - 3,Bournemouth
+15-04-2023,Everton,1 - 3,Fulham
+15-04-2023,Aston Villa,3 - 0,Newcastle
+15-03-2023,Southampton,0 - 2,Brentford
+15-03-2023,Brighton,1 - 0,Crystal Palace
+15-03-2023,Southampton,0 - 2,Brentford
+15-03-2023,Brighton,1 - 0,Crystal Palace
+15-02-2023,Arsenal,1 - 3,Man City
+15-02-2023,Arsenal,1 - 3,Man City
+15-01-2023,Tottenham,0 - 2,Arsenal
+15-01-2023,Chelsea,1 - 0,Crystal Palace
+15-01-2023,Tottenham,0 - 2,Arsenal
+15-01-2023,Chelsea,1 - 0,Crystal Palace
+15-01-2023,Newcastle,1 - 0,Fulham
+15-01-2023,Newcastle,1 - 0,Fulham
+14-10-2022,Brentford,2 - 0,Brighton
+14-10-2022,Brentford,2 - 0,Brighton
+14-08-2022,Nott'm Forest,1 - 0,West Ham
+14-08-2022,Chelsea,2 - 2,Tottenham
+14-08-2022,Chelsea,2 - 2,Tottenham
+14-08-2022,Nott'm Forest,1 - 0,West Ham
+14-05-2023,Arsenal,0 - 3,Brighton
+14-05-2023,Everton,0 - 3,Man City
+14-05-2023,Arsenal,0 - 3,Brighton
+14-05-2023,Everton,0 - 3,Man City
+14-05-2023,Brentford,2 - 0,West Ham
+14-05-2023,Brentford,2 - 0,West Ham
+14-01-2023,Nott'm Forest,2 - 0,Leicester
+14-01-2023,Man United,2 - 1,Man City
+14-01-2023,Nott'm Forest,2 - 0,Leicester
+14-01-2023,Man United,2 - 1,Man City
+14-01-2023,Brighton,3 - 0,Liverpool
+14-01-2023,Wolves,1 - 0,West Ham
+14-01-2023,Everton,1 - 2,Southampton
+14-01-2023,Everton,1 - 2,Southampton
+14-01-2023,Brentford,2 - 0,Bournemouth
+14-01-2023,Brighton,3 - 0,Liverpool
+14-01-2023,Brentford,2 - 0,Bournemouth
+14-01-2023,Wolves,1 - 0,West Ham
+13-11-2022,Brighton,1 - 2,Aston Villa
+13-11-2022,Fulham,1 - 2,Man United
+13-11-2022,Brighton,1 - 2,Aston Villa
+13-11-2022,Fulham,1 - 2,Man United
+13-08-2022,Wolves,0 - 0,Fulham
+13-08-2022,Aston Villa,2 - 1,Everton
+13-08-2022,Arsenal,4 - 2,Leicester
+13-08-2022,Arsenal,4 - 2,Leicester
+13-08-2022,Man City,4 - 0,Bournemouth
+13-08-2022,Wolves,0 - 0,Fulham
+13-08-2022,Brentford,4 - 0,Man United
+13-08-2022,Aston Villa,2 - 1,Everton
+13-08-2022,Brighton,0 - 0,Newcastle
+13-08-2022,Man City,4 - 0,Bournemouth
+13-08-2022,Brentford,4 - 0,Man United
+13-08-2022,Southampton,2 - 2,Leeds
+13-08-2022,Southampton,2 - 2,Leeds
+13-08-2022,Brighton,0 - 0,Newcastle
+13-05-2023,Southampton,0 - 2,Fulham
+13-05-2023,Aston Villa,2 - 1,Tottenham
+13-05-2023,Crystal Palace,2 - 0,Bournemouth
+13-05-2023,Crystal Palace,2 - 0,Bournemouth
+13-05-2023,Southampton,0 - 2,Fulham
+13-05-2023,Chelsea,2 - 2,Nott'm Forest
+13-05-2023,Leeds,2 - 2,Newcastle
+13-05-2023,Aston Villa,2 - 1,Tottenham
+13-05-2023,Man United,2 - 0,Wolves
+13-05-2023,Leeds,2 - 2,Newcastle
+13-05-2023,Man United,2 - 0,Wolves
+13-05-2023,Chelsea,2 - 2,Nott'm Forest
+13-02-2023,Liverpool,2 - 0,Everton
+13-02-2023,Liverpool,2 - 0,Everton
+13-01-2023,Aston Villa,2 - 1,Leeds
+13-01-2023,Aston Villa,2 - 1,Leeds
+12-11-2022,Tottenham,4 - 3,Leeds
+12-11-2022,Man City,1 - 2,Brentford
+12-11-2022,Nott'm Forest,1 - 0,Crystal Palace
+12-11-2022,Tottenham,4 - 3,Leeds
+12-11-2022,Man City,1 - 2,Brentford
+12-11-2022,Nott'm Forest,1 - 0,Crystal Palace
+12-11-2022,West Ham,0 - 2,Leicester
+12-11-2022,Liverpool,3 - 1,Southampton
+12-11-2022,Liverpool,3 - 1,Southampton
+12-11-2022,Wolves,0 - 2,Arsenal
+12-11-2022,Bournemouth,3 - 0,Everton
+12-11-2022,Newcastle,1 - 0,Chelsea
+12-11-2022,Bournemouth,3 - 0,Everton
+12-11-2022,Wolves,0 - 2,Arsenal
+12-11-2022,West Ham,0 - 2,Leicester
+12-11-2022,Newcastle,1 - 0,Chelsea
+12-03-2023,Fulham,0 - 3,Arsenal
+12-03-2023,West Ham,1 - 1,Aston Villa
+12-03-2023,Man United,0 - 0,Southampton
+12-03-2023,Newcastle,2 - 1,Wolves
+12-03-2023,West Ham,1 - 1,Aston Villa
+12-03-2023,Man United,0 - 0,Southampton
+12-03-2023,Newcastle,2 - 1,Wolves
+12-03-2023,Fulham,0 - 3,Arsenal
+12-02-2023,Leeds,0 - 2,Man United
+12-02-2023,Man City,3 - 1,Aston Villa
+12-02-2023,Man City,3 - 1,Aston Villa
+12-02-2023,Leeds,0 - 2,Man United
+12-01-2023,Fulham,2 - 1,Chelsea
+12-01-2023,Fulham,2 - 1,Chelsea
+11-03-2023,Leicester,1 - 3,Chelsea
+11-03-2023,Leeds,2 - 2,Brighton
+11-03-2023,Bournemouth,1 - 0,Liverpool
+11-03-2023,Crystal Palace,0 - 1,Man City
+11-03-2023,Tottenham,3 - 1,Nott'm Forest
+11-03-2023,Everton,1 - 0,Brentford
+11-03-2023,Crystal Palace,0 - 1,Man City
+11-03-2023,Bournemouth,1 - 0,Liverpool
+11-03-2023,Leicester,1 - 3,Chelsea
+11-03-2023,Everton,1 - 0,Brentford
+11-03-2023,Leeds,2 - 2,Brighton
+11-03-2023,Tottenham,3 - 1,Nott'm Forest
+11-02-2023,Bournemouth,1 - 1,Newcastle
+11-02-2023,Southampton,1 - 2,Wolves
+11-02-2023,Southampton,1 - 2,Wolves
+11-02-2023,Arsenal,1 - 1,Brentford
+11-02-2023,Leicester,4 - 1,Tottenham
+11-02-2023,West Ham,1 - 1,Chelsea
+11-02-2023,Arsenal,1 - 1,Brentford
+11-02-2023,Leicester,4 - 1,Tottenham
+11-02-2023,Bournemouth,1 - 1,Newcastle
+11-02-2023,Crystal Palace,1 - 1,Brighton
+11-02-2023,Crystal Palace,1 - 1,Brighton
+11-02-2023,Fulham,2 - 0,Nott'm Forest
+11-02-2023,West Ham,1 - 1,Chelsea
+11-02-2023,Fulham,2 - 0,Nott'm Forest
+10-10-2022,Nott'm Forest,1 - 1,Aston Villa
+10-10-2022,Nott'm Forest,1 - 1,Aston Villa
+09-10-2022,Everton,1 - 2,Man United
+09-10-2022,Crystal Palace,2 - 1,Leeds
+09-10-2022,Arsenal,3 - 2,Liverpool
+09-10-2022,West Ham,3 - 1,Fulham
+09-10-2022,Arsenal,3 - 2,Liverpool
+09-10-2022,West Ham,3 - 1,Fulham
+09-10-2022,Crystal Palace,2 - 1,Leeds
+09-10-2022,Everton,1 - 2,Man United
+09-04-2023,Leeds,1 - 5,Crystal Palace
+09-04-2023,Liverpool,2 - 2,Arsenal
+09-04-2023,Liverpool,2 - 2,Arsenal
+09-04-2023,Leeds,1 - 5,Crystal Palace
+08-10-2022,Newcastle,5 - 1,Brentford
+08-10-2022,Newcastle,5 - 1,Brentford
+08-10-2022,Chelsea,3 - 0,Wolves
+08-10-2022,Bournemouth,2 - 1,Leicester
+08-10-2022,Brighton,0 - 1,Tottenham
+08-10-2022,Man City,4 - 0,Southampton
+08-10-2022,Bournemouth,2 - 1,Leicester
+08-10-2022,Brighton,0 - 1,Tottenham
+08-10-2022,Man City,4 - 0,Southampton
+08-10-2022,Chelsea,3 - 0,Wolves
+08-05-2023,Brighton,1 - 5,Everton
+08-05-2023,Nott'm Forest,4 - 3,Southampton
+08-05-2023,Fulham,5 - 3,Leicester
+08-05-2023,Fulham,5 - 3,Leicester
+08-05-2023,Nott'm Forest,4 - 3,Southampton
+08-05-2023,Brighton,1 - 5,Everton
+08-04-2023,Southampton,1 - 4,Man City
+08-04-2023,Leicester,0 - 1,Bournemouth
+08-04-2023,Man United,2 - 0,Everton
+08-04-2023,Aston Villa,2 - 0,Nott'm Forest
+08-04-2023,Fulham,0 - 1,West Ham
+08-04-2023,Brentford,1 - 2,Newcastle
+08-04-2023,Tottenham,2 - 1,Brighton
+08-04-2023,Aston Villa,2 - 0,Nott'm Forest
+08-04-2023,Fulham,0 - 1,West Ham
+08-04-2023,Wolves,1 - 0,Chelsea
+08-04-2023,Wolves,1 - 0,Chelsea
+08-04-2023,Southampton,1 - 4,Man City
+08-04-2023,Tottenham,2 - 1,Brighton
+08-04-2023,Brentford,1 - 2,Newcastle
+08-04-2023,Man United,2 - 0,Everton
+08-04-2023,Leicester,0 - 1,Bournemouth
+08-02-2023,Man United,2 - 2,Leeds
+08-02-2023,Man United,2 - 2,Leeds
+07-08-2022,West Ham,0 - 2,Man City
+07-08-2022,Leicester,2 - 2,Brentford
+07-08-2022,Leicester,2 - 2,Brentford
+07-08-2022,West Ham,0 - 2,Man City
+07-08-2022,Man United,1 - 2,Brighton
+07-08-2022,Man United,1 - 2,Brighton
+07-05-2023,West Ham,1 - 0,Man United
+07-05-2023,Newcastle,0 - 2,Arsenal
+07-05-2023,West Ham,1 - 0,Man United
+07-05-2023,Newcastle,0 - 2,Arsenal
+06-11-2022,West Ham,1 - 2,Crystal Palace
+06-11-2022,Chelsea,0 - 1,Arsenal
+06-11-2022,West Ham,1 - 2,Crystal Palace
+06-11-2022,Aston Villa,3 - 1,Man United
+06-11-2022,Aston Villa,3 - 1,Man United
+06-11-2022,Southampton,1 - 4,Newcastle
+06-11-2022,Tottenham,1 - 2,Liverpool
+06-11-2022,Tottenham,1 - 2,Liverpool
+06-11-2022,Chelsea,0 - 1,Arsenal
+06-11-2022,Southampton,1 - 4,Newcastle
+06-08-2022,Everton,0 - 1,Chelsea
+06-08-2022,Fulham,2 - 2,Liverpool
+06-08-2022,Tottenham,4 - 1,Southampton
+06-08-2022,Leeds,2 - 1,Wolves
+06-08-2022,Fulham,2 - 2,Liverpool
+06-08-2022,Bournemouth,2 - 0,Aston Villa
+06-08-2022,Tottenham,4 - 1,Southampton
+06-08-2022,Bournemouth,2 - 0,Aston Villa
+06-08-2022,Leeds,2 - 1,Wolves
+06-08-2022,Newcastle,2 - 0,Nott'm Forest
+06-08-2022,Everton,0 - 1,Chelsea
+06-08-2022,Newcastle,2 - 0,Nott'm Forest
+06-05-2023,Man City,2 - 1,Leeds
+06-05-2023,Wolves,1 - 0,Aston Villa
+06-05-2023,Wolves,1 - 0,Aston Villa
+06-05-2023,Liverpool,1 - 0,Brentford
+06-05-2023,Bournemouth,1 - 3,Chelsea
+06-05-2023,Liverpool,1 - 0,Brentford
+06-05-2023,Tottenham,1 - 0,Crystal Palace
+06-05-2023,Bournemouth,1 - 3,Chelsea
+06-05-2023,Man City,2 - 1,Leeds
+06-05-2023,Tottenham,1 - 0,Crystal Palace
+06-03-2023,Brentford,3 - 2,Fulham
+06-03-2023,Brentford,3 - 2,Fulham
+05-11-2022,Wolves,2 - 3,Brighton
+05-11-2022,Everton,0 - 2,Leicester
+05-11-2022,Leeds,4 - 3,Bournemouth
+05-11-2022,Man City,2 - 1,Fulham
+05-11-2022,Everton,0 - 2,Leicester
+05-11-2022,Nott'm Forest,2 - 2,Brentford
+05-11-2022,Nott'm Forest,2 - 2,Brentford
+05-11-2022,Leeds,4 - 3,Bournemouth
+05-11-2022,Wolves,2 - 3,Brighton
+05-11-2022,Man City,2 - 1,Fulham
+05-08-2022,Crystal Palace,0 - 2,Arsenal
+05-08-2022,Crystal Palace,0 - 2,Arsenal
+05-04-2023,Man United,1 - 0,Brentford
+05-04-2023,West Ham,1 - 5,Newcastle
+05-04-2023,Man United,1 - 0,Brentford
+05-04-2023,West Ham,1 - 5,Newcastle
+05-03-2023,Nott'm Forest,2 - 2,Everton
+05-03-2023,Liverpool,7 - 0,Man United
+05-03-2023,Nott'm Forest,2 - 2,Everton
+05-03-2023,Liverpool,7 - 0,Man United
+05-02-2023,Nott'm Forest,1 - 0,Leeds
+05-02-2023,Nott'm Forest,1 - 0,Leeds
+05-02-2023,Tottenham,1 - 0,Man City
+05-02-2023,Tottenham,1 - 0,Man City
+05-01-2023,Chelsea,0 - 1,Man City
+05-01-2023,Chelsea,0 - 1,Man City
+04-09-2022,Brighton,5 - 2,Leicester
+04-09-2022,Man United,3 - 1,Arsenal
+04-09-2022,Man United,3 - 1,Arsenal
+04-09-2022,Brighton,5 - 2,Leicester
+04-05-2023,Brighton,1 - 0,Man United
+04-05-2023,Brighton,1 - 0,Man United
+04-04-2023,Bournemouth,0 - 2,Brighton
+04-04-2023,Leeds,2 - 1,Nott'm Forest
+04-04-2023,Leicester,1 - 2,Aston Villa
+04-04-2023,Chelsea,0 - 0,Liverpool
+04-04-2023,Chelsea,0 - 0,Liverpool
+04-04-2023,Bournemouth,0 - 2,Brighton
+04-04-2023,Leeds,2 - 1,Nott'm Forest
+04-04-2023,Leicester,1 - 2,Aston Villa
+04-03-2023,Arsenal,3 - 2,Bournemouth
+04-03-2023,Brighton,4 - 0,West Ham
+04-03-2023,Wolves,1 - 0,Tottenham
+04-03-2023,Aston Villa,1 - 0,Crystal Palace
+04-03-2023,Arsenal,3 - 2,Bournemouth
+04-03-2023,Wolves,1 - 0,Tottenham
+04-03-2023,Aston Villa,1 - 0,Crystal Palace
+04-03-2023,Chelsea,1 - 0,Leeds
+04-03-2023,Brighton,4 - 0,West Ham
+04-03-2023,Man City,2 - 0,Newcastle
+04-03-2023,Southampton,1 - 0,Leicester
+04-03-2023,Chelsea,1 - 0,Leeds
+04-03-2023,Southampton,1 - 0,Leicester
+04-03-2023,Man City,2 - 0,Newcastle
+04-02-2023,Newcastle,1 - 1,West Ham
+04-02-2023,Aston Villa,2 - 4,Leicester
+04-02-2023,Aston Villa,2 - 4,Leicester
+04-02-2023,Brighton,1 - 0,Bournemouth
+04-02-2023,Brentford,3 - 0,Southampton
+04-02-2023,Brentford,3 - 0,Southampton
+04-02-2023,Wolves,3 - 0,Liverpool
+04-02-2023,Man United,2 - 1,Crystal Palace
+04-02-2023,Brighton,1 - 0,Bournemouth
+04-02-2023,Wolves,3 - 0,Liverpool
+04-02-2023,Everton,1 - 0,Arsenal
+04-02-2023,Newcastle,1 - 1,West Ham
+04-02-2023,Everton,1 - 0,Arsenal
+04-02-2023,Man United,2 - 1,Crystal Palace
+04-01-2023,Leeds,2 - 2,West Ham
+04-01-2023,Crystal Palace,0 - 4,Tottenham
+04-01-2023,Aston Villa,1 - 1,Wolves
+04-01-2023,Crystal Palace,0 - 4,Tottenham
+04-01-2023,Southampton,0 - 1,Nott'm Forest
+04-01-2023,Leeds,2 - 2,West Ham
+04-01-2023,Southampton,0 - 1,Nott'm Forest
+04-01-2023,Aston Villa,1 - 1,Wolves
+03-10-2022,Leicester,4 - 0,Nott'm Forest
+03-10-2022,Leicester,4 - 0,Nott'm Forest
+03-09-2022,Aston Villa,1 - 1,Man City
+03-09-2022,Wolves,1 - 0,Southampton
+03-09-2022,Newcastle,0 - 0,Crystal Palace
+03-09-2022,Nott'm Forest,2 - 3,Bournemouth
+03-09-2022,Everton,0 - 0,Liverpool
+03-09-2022,Nott'm Forest,2 - 3,Bournemouth
+03-09-2022,Brentford,5 - 2,Leeds
+03-09-2022,Aston Villa,1 - 1,Man City
+03-09-2022,Wolves,1 - 0,Southampton
+03-09-2022,Chelsea,2 - 1,West Ham
+03-09-2022,Everton,0 - 0,Liverpool
+03-09-2022,Chelsea,2 - 1,West Ham
+03-09-2022,Brentford,5 - 2,Leeds
+03-09-2022,Newcastle,0 - 0,Crystal Palace
+03-09-2022,Tottenham,2 - 1,Fulham
+03-09-2022,Tottenham,2 - 1,Fulham
+03-05-2023,Man City,3 - 0,West Ham
+03-05-2023,Liverpool,1 - 0,Fulham
+03-05-2023,Man City,3 - 0,West Ham
+03-05-2023,Liverpool,1 - 0,Fulham
+03-04-2023,Everton,1 - 1,Tottenham
+03-04-2023,Everton,1 - 1,Tottenham
+03-02-2023,Chelsea,0 - 0,Fulham
+03-02-2023,Chelsea,0 - 0,Fulham
+03-01-2023,Leicester,0 - 1,Fulham
+03-01-2023,Man United,3 - 0,Bournemouth
+03-01-2023,Arsenal,0 - 0,Newcastle
+03-01-2023,Arsenal,0 - 0,Newcastle
+03-01-2023,Leicester,0 - 1,Fulham
+03-01-2023,Everton,1 - 4,Brighton
+03-01-2023,Everton,1 - 4,Brighton
+03-01-2023,Man United,3 - 0,Bournemouth
+02-10-2022,Man City,6 - 3,Man United
+02-10-2022,Leeds,0 - 0,Aston Villa
+02-10-2022,Man City,6 - 3,Man United
+02-10-2022,Leeds,0 - 0,Aston Villa
+02-05-2023,Arsenal,3 - 1,Chelsea
+02-05-2023,Arsenal,3 - 1,Chelsea
+02-04-2023,Newcastle,2 - 0,Man United
+02-04-2023,Newcastle,2 - 0,Man United
+02-04-2023,West Ham,1 - 0,Southampton
+02-04-2023,West Ham,1 - 0,Southampton
+02-01-2023,Brentford,3 - 1,Liverpool
+02-01-2023,Brentford,3 - 1,Liverpool
+01-10-2022,West Ham,2 - 0,Wolves
+01-10-2022,West Ham,2 - 0,Wolves
+01-10-2022,Southampton,1 - 2,Everton
+01-10-2022,Crystal Palace,1 - 2,Chelsea
+01-10-2022,Southampton,1 - 2,Everton
+01-10-2022,Arsenal,3 - 1,Tottenham
+01-10-2022,Fulham,1 - 4,Newcastle
+01-10-2022,Bournemouth,0 - 0,Brentford
+01-10-2022,Liverpool,3 - 3,Brighton
+01-10-2022,Fulham,1 - 4,Newcastle
+01-10-2022,Arsenal,3 - 1,Tottenham
+01-10-2022,Crystal Palace,1 - 2,Chelsea
+01-10-2022,Bournemouth,0 - 0,Brentford
+01-10-2022,Liverpool,3 - 3,Brighton
+01-09-2022,Leicester,0 - 1,Man United
+01-09-2022,Leicester,0 - 1,Man United
+01-05-2023,Leicester,2 - 2,Everton
+01-05-2023,Leicester,2 - 2,Everton
+01-04-2023,Crystal Palace,2 - 1,Leicester
+01-04-2023,Arsenal,4 - 1,Leeds
+01-04-2023,Nott'm Forest,1 - 1,Wolves
+01-04-2023,Brighton,3 - 3,Brentford
+01-04-2023,Nott'm Forest,1 - 1,Wolves
+01-04-2023,Arsenal,4 - 1,Leeds
+01-04-2023,Man City,4 - 1,Liverpool
+01-04-2023,Brighton,3 - 3,Brentford
+01-04-2023,Bournemouth,2 - 1,Fulham
+01-04-2023,Chelsea,0 - 2,Aston Villa
+01-04-2023,Man City,4 - 1,Liverpool
+01-04-2023,Chelsea,0 - 2,Aston Villa
+01-04-2023,Bournemouth,2 - 1,Fulham
+01-04-2023,Crystal Palace,2 - 1,Leicester
+01-03-2023,Arsenal,4 - 0,Everton
+01-03-2023,Liverpool,2 - 0,Wolves
+01-03-2023,Arsenal,4 - 0,Everton
+01-03-2023,Liverpool,2 - 0,Wolves
+01-01-2023,Nott'm Forest,1 - 1,Chelsea
+01-01-2023,Nott'm Forest,1 - 1,Chelsea
+01-01-2023,Tottenham,0 - 2,Aston Villa
+01-01-2023,Tottenham,0 - 2,Aston Villa
